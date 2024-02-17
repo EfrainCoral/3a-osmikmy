@@ -106,6 +106,13 @@ header .title{
 		font-size: 10px;
 	}
 
+	.face-back h1{
+		font-size: 25px;
+	}
+
+	.face-front h1{
+		font-size: 25px;
+
 	.face-back img{
 		width: 30px;
 		height: 30px;
