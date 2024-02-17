@@ -101,10 +101,26 @@ header .title{
 
 /* @media para hacer el texto responsivo */
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 720px){
 	p{
-		font-size: 12px;
+		font-size: 10px;
 	}
+
+	.face-back img{
+		width: 30px;
+		height: 30px;
+		margin-top: 10px;
+		justify-content: center;
+		border-radius: 30%;
+	}
+
+	.face-front img{
+		width: 30px;
+		height: 30px;
+		margin-top: 10px;
+		border-radius: 30%;
+	}
+
 }
 
 
